@@ -1,0 +1,40 @@
+{
+  "identifier": "0000",
+  "nonRenewingSubscriptions": [],
+  "products": [],
+  "settings": {},
+  "subscriptionGroups": [
+    {
+      "id": "1000",
+      "localizations": [],
+      "name": "Jetlagly Pro",
+      "subscriptions": [
+        {
+          "adHocOffers": [],
+          "codeOffers": [],
+          "displayPrice": "1.99",
+          "familyShareable": false,
+          "groupNumber": 1,
+          "internalID": "2000",
+          "introductoryOffer": null,
+          "localizations": [
+            {
+              "description": "Jetlagly Pro monthly subscription",
+              "displayName": "Jetlagly Pro",
+              "locale": "en_US"
+            }
+          ],
+          "productID": "com.shimondeitel.jetlag.pro.monthly",
+          "recurringSubscriptionPeriod": "P1M",
+          "referenceName": "Jetlagly Pro Monthly",
+          "subscriptionGroupID": "1000",
+          "type": "RecurringSubscription"
+        }
+      ]
+    }
+  ],
+  "version": {
+    "major": 3,
+    "minor": 0
+  }
+}
